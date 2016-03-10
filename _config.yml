@@ -1,0 +1,28 @@
+name: soujanya-rimi
+favicon: null
+layout_spectrum: 0.6957753433380276
+typography_spectrum: 0.8891605217941105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8175327789504081
+  lightness: 0.7934690420515835
+  saturation: 0.06827151286415756
+  rhythmicContrast: 0.6791538631077856
+purpose: []
